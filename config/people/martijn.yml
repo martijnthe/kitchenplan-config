@@ -7,21 +7,14 @@ recipes:
         - dotfiles::inputrc
     mac_os_x:
         - nodejs::default
-        - osxdefaults::disable_natural_scrolling
         - osxdefaults::enable_standard_function_keys
         - osxdefaults::menu_show_clock_with_date
         - osxdefaults::finder_display_full_path
-        - osxdefaults::finder_new_finder_windows_shows_homefolder
-        - osxdefaults::do_not_show_dashboard_as_a_space
 
 attributes:
-    dotfiles:
-        vimusers:
-            - root
-            - francois
     git:
-        name: François Baldassari
-        email: francois@getpebble.com
+        name: Martijn Thé
+        email: martijn@pebble.com
 
     homebrewalt:
         apps:
@@ -33,20 +26,12 @@ attributes:
             - mackup
             - mosh
         cask_apps:
-            - growlnotify
-            - firefox
-            - nvalt
-            - google-drive
             - alfred
             - spotify
-            - 1password
-            - rescuetime
-            - steam
             - flux
             - dash
             - synalyze-it-pro
             - plug
             - skype
             - gimp
-            - qt5
 
