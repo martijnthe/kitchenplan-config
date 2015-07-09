@@ -33,5 +33,7 @@ attributes:
             - pebble-openocd
             - pebble-qemu
             - llvm
+            - gcc
+            - ncurses
         cask_apps:
             - sourcetree
