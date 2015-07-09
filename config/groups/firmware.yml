@@ -32,7 +32,7 @@ attributes:
             - pkg-config
             - pebble-openocd
             - pebble-qemu
-            - llvm
+            - llvm --with-clang --with-lld --with-python --with-rtti
             - gdb
             - ncurses
         cask_apps:
