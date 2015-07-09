@@ -35,5 +35,6 @@ attributes:
             - llvm --with-clang --with-lld --with-python --with-rtti
             - gdb
             - ncurses
+            - lcov
         cask_apps:
             - sourcetree
