@@ -26,6 +26,7 @@ attributes:
             - bash-completion
             - mackup
             - mosh
+            - libimobiledevice
         cask_apps:
             - alfred
             - spotify
