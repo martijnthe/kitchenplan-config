@@ -9,6 +9,7 @@ recipes:
         - osxdefaults::enable_standard_function_keys
         - osxdefaults::menu_show_clock_with_date
         - osxdefaults::finder_display_full_path
+        - osxdefaults::enable_safari_debug_menu
 
 attributes:
     git:
