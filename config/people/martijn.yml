@@ -10,6 +10,7 @@ recipes:
         - osxdefaults::menu_show_clock_with_date
         - osxdefaults::finder_display_full_path
         - osxdefaults::enable_safari_debug_menu
+        - osxdefaults::finder_search_the_current_folder_by_default
 
 attributes:
     git:
