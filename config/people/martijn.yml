@@ -27,6 +27,7 @@ attributes:
             - mackup
             - mosh
             - libimobiledevice
+            - heroku
         cask_apps:
             - alfred
             - spotify
