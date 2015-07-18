@@ -28,6 +28,7 @@ attributes:
             - mosh
             - libimobiledevice
             - heroku
+            - dos2unix
         cask_apps:
             - alfred
             - spotify
